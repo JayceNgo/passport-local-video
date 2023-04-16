@@ -11,7 +11,7 @@ const app = express();
 const User = require("./user");
 //----------------------------------------- END OF IMPORTS---------------------------------------------------
 mongoose.connect(
-  "mongodb+srv://{Place Your Username Here!}:{Place Your Password Here!}@cluster0-q9g9s.mongodb.net/test?retryWrites=true&w=majority",
+  "mongodb+srv://Desuburingaa:x3QyZ1zrDlWl9W8z@cluster0.l41oywh.mongodb.net/COMP308FinalProject?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
